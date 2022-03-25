@@ -1,2 +1,2 @@
-# public-PGA-corpus
+# public-PGA
 Public PGA Repository
