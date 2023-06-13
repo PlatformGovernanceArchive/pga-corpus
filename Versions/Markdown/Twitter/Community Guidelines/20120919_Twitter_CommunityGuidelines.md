@@ -1,4 +1,4 @@
-The Twitter Rules 
+The Twitter Rules (20120919*) 
 
 Our goal is to provide a service that allows you to discover and receive content from sources that 
 
@@ -20,13 +20,13 @@ comply with legal requirements and make Twitter a better experience for all. We 
 
 these rules from time to time and reserve the right to do so. Please check back here to see the latest. 
 
-● 
+• 
 
 **Impersonation:** You may not impersonate others through the Twitter service in a 
 
 manner that does or is intended to mislead, confuse, or deceive others 
 
-● 
+• 
 
 **Trademark:** We reserve the right to reclaim user names on behalf of businesses or 
 
@@ -34,7 +34,7 @@ individuals that hold legal claim or trademark on those user names. Accounts usi
 
 business names and/or logos to mislead others will be permanently suspended. 
 
-● 
+• 
 
 **Privacy**: You may not publish or post other people&aposs private and confidential 
 
@@ -42,19 +42,19 @@ information, such as credit card numbers, street address or Social Security/Nati
 
 Identity numbers, without their express authorization and permission. 
 
-● 
+• 
 
 **Violence and Threats**: You may not publish or post direct, specific threats of violence 
 
 against others. 
 
-● 
+• 
 
 **Copyright:** We will respond to clear and complete notices of alleged copyright 
 
 infringement. Our copyright procedures are set forth in the Terms of Service. 
 
-● 
+• 
 
 **Unlawful Use**: You may not use our service for any unlawful purposes or in furtherance 
 
@@ -62,7 +62,7 @@ of illegal activities. International users agree to comply with all local laws r
 
 online conduct and acceptable content. 
 
-● 
+• 
 
 **Misuse of Twitter Badges**: You may not use a Verified Account badge or Promoted 
 
@@ -80,7 +80,7 @@ on Twitter.com, and will result in permanent suspension. Any accounts engaging i
 
 specified below are subject to permanent suspension. 
 
-● 
+• 
 
 **Serial Accounts:** You may not create serial accounts for disruptive or abusive purposes, 
 
@@ -90,7 +90,7 @@ related accounts. Please note that any violation of the Twitter Rules is cause f
 
 permanent suspension of all accounts. 
 
-● 
+• 
 
 **Username Squatting**: You may not engage in username squatting. Accounts that are 
 
@@ -100,37 +100,37 @@ the factors that we take into account when determining what conduct is considere
 
 username squatting are: 
 
-● 
+• 
 
 the number of accounts created 
 
-● 
+• 
 
 creating accounts for the purpose of preventing others from using those 
 
 account names 
 
-● 
+• 
 
 creating accounts for the purpose of selling those accounts 
 
-● 
+• 
 
 using feeds of third-party content to update and maintain accounts under 
 
 the names of those third parties 
 
-● 
+• 
 
 **Invitation spam:** You may not use Twitter.com&aposs address book contact import to send 
 
 repeat, mass invitations. 
 
-● 
+• 
 
 **Selling user names:** You may not buy or sell Twitter usernames. 
 
-● 
+• 
 
 **Malware/Phishing**: You may not publish or link to malicious content intended to 
 
@@ -138,7 +138,7 @@ damage or disrupt another user’s browser or computer or to compromise a user�
 
 privacy. 
 
-● 
+• 
 
 **Spam:** You may not use the Twitter service for the purpose of spamming anyone. What 
 
@@ -148,89 +148,89 @@ spammers. Some of the factors that we take into account when determining what
 
 conduct is considered to be spamming are: 
 
-● 
+• 
 
 If you have followed a large amount of users in a short amount of time; 
 
-● 
+• 
 
 If you have followed and unfollowed people in a short time period, 
 
 particularly by automated means (aggressive follower churn); 
 
-● 
+• 
 
 If you repeatedly follow and unfollow people, whether to build followers or 
 
 to garner more attention for your profile; 
 
-● 
+• 
 
 If you have a small number of followers compared to the amount of people 
 
 you are following; 
 
-● 
+• 
 
 If your updates consist mainly of links, and not personal updates; 
 
-● 
+• 
 
 If you post misleading links; 
 
-● 
+• 
 
 If a large number of people are blocking you; 
 
-● 
+• 
 
 The number of spam complaints that have been filed against you; 
 
-● 
+• 
 
 If you post duplicate content over multiple accounts or multiple duplicate 
 
 updates on one account; 
 
-● 
+• 
 
 If you post multiple unrelated updates to a topic using #; 
 
-● 
+• 
 
 If you post multiple unrelated updates to a trending or popular topic; 
 
-● 
+• 
 
 If you send large numbers of duplicate @replies or mentions; 
 
-● 
+• 
 
 If you send large numbers of unsolicited @replies or mentions in an attempt 
 
 to spam a service or link; 
 
-● 
+• 
 
 If you add a large number of unrelated users to lists in an attempt to spam a 
 
 service or link; 
 
-● 
+• 
 
 If you repeatedly post other users&apos Tweets as your own; 
 
-● 
+• 
 
 If you have attempted to "sell" followers, particularly through tactics 
 
 considered aggressive following or follower churn; 
 
-● 
+• 
 
 Creating or purchasing accounts in order to gain followers; 
 
-● 
+• 
 
 Using or promoting third-party sites that claim to get you more followers 
 
@@ -238,15 +238,15 @@ Using or promoting third-party sites that claim to get you more followers
 
 site that offers to automatically add followers to your account); 
 
-● 
+• 
 
 If you create false or misleading Points of Interest; 
 
-● 
+• 
 
 If you create Points of Interest to namesquat or spam. 
 
-● 
+• 
 
 **Pornography:** You may not use obscene or pornographic images in either your profile 
 
@@ -280,37 +280,41 @@ Check out our complete list of articles outlining our policies, guidelines, and 
 
 Following Rules and Best Practices 
 
+(20110919*) 
+
  
 
 To learn more about following, please read "FAQs About Following." 
 
 What are the limits?  
 
-We don’t limit the number of followers you can have. However, we do 
+We don’t limit the number of followers you can have. However, **we do** 
 
-monitor how aggressively users follow other users. We try to make sure that 
+**monitor how aggressively users follow other users**. We try to make 
 
-none of our limits restrain reasonable usage, and will not affect most Twitter 
+sure that none of our limits restrain reasonable usage, and will not affect 
 
-users.  
+most Twitter users.  
 
 We monitor all accounts for aggressive following and follow churn 
 
-(repeatedly following and un- following large numbers of other users). You 
+(repeatedly following and un- following large numbers of other users). 
 
-can read more about these below, but if you don’t follow or un-follow 
+You can read more about these below, but if you don’t follow or un-follow 
 
-hundreds of users in a single day, and you aren’t using automated methods of 
+hundreds of users in a single day, and you aren’t using automated 
 
-following users, you should be fine.  
+methods of following users, you should be fine.  
 
-Please note that the only automated following behavior that Twitter allows is 
+Please note that the only automated following behavior that Twitter 
 
-auto-follow-back (following a user after they have followed you). Automated 
+allows is auto-follow-back (following a user after they have followed you). 
 
-un-following is also not permitted. Please review our Automation Rules and 
+Automated un-following is also not permitted. Please review our 
 
-Best Practices for more information on automating your account.  
+Automation Rules and Best Practices for more information on automating 
+
+your account.  
 
 What is aggressive following?  
 
@@ -322,61 +326,63 @@ accounts seem interesting is normal and is not considered aggressive.
 
 What is aggressive follow churn?  
 
-If you decide to follow someone and then change your mind later, you can 
+If you decide to follow someone and then change your mind later, you 
 
-just visit the person’s profile page and un-follow them. Aggressive follow 
+can just visit the person’s profile page and un-follow them. Aggressive 
 
-churn is when an account repeatedly follows and then un- follows a large 
+follow churn is when an account *repeatedly* follows and then un- follows 
 
-number of users. This may be done to get lots of people to notice them, to 
+a large number of users. This may be done to get lots of people to notice 
 
-circumvent a Twitter limit, or to change their follower-to-following ratio. 
+them, to circumvent a Twitter limit, or to change their follower-to-following 
 
-These behaviors negatively impact the Twitter experience for other users, are 
+ratio. These behaviors negatively impact the Twitter experience for other 
 
-common spam tactics, and may lead to account suspension.  
+users, are common spam tactics, and may lead to account suspension.  
 
-Are there additional limits if you are following 2000+ 
+Are there additional limits if you are following 
 
-accounts?  
+2000+ accounts?  
 
 The rules about aggressive following and follow churn still apply. In 
 
-addition, every user can follow 2000 people total. Once you’ve followed 2000 
+addition, **every user can follow 2000 people total**. Once you’ve 
 
-users, there are limits to the number of additional users you can follow: this 
+followed 2000 users, there are limits to the number of additional users 
 
-limit is different for every user and is based on your ratio of followers to 
+you can follow: this limit is different for every user and is based on your 
 
-following.  
+ratio of followers to following.  
 
 When you hit this limit, we’ll tell you by showing an error message in your 
 
-browser. You’ll need to wait until you have more followers in order to follow 
+browser. You’ll need to wait until you have more followers in order to 
 
-more users—for example, you can&apost follow 10,000 people if only 100 people 
+follow more users—for example, you can&apost follow 10,000 people if only 
 
-follow you. When you reach a daily or total limit and we show you an error 
+100 people follow you. When you reach a daily or total limit and we show 
 
-message, you&aposve hit a technical limit imposed to limit egregious behavior by 
+you an error message, you&aposve hit a technical limit imposed to limit 
 
-spam accounts and to prevent strain on the site. These are just the technical 
+egregious behavior by spam accounts and to prevent strain on the site. 
 
-limits for your account; in addition, you are prohibited from aggressive 
+These are just the technical limits for your account; in addition, you are 
 
-following behaviors. These behaviors may result in account suspension, 
+prohibited from aggressive following behaviors. These behaviors may 
 
-regardless of your account&aposs technical ratio.  
+result in account suspension, regardless of your account&aposs technical ratio.  
 
-Limits improve site performance by ensuring that when we send a person&aposs 
+Limits improve site performance by ensuring that when we send a 
 
-message to all of their followers, the sending of that message is meaningful. 
+person&aposs message to all of their followers, the sending of that message is 
 
-Follow limits cannot be lifted by Twitter, and everyone is subject to them, 
+meaningful. Follow limits cannot be lifted by Twitter, and everyone is 
 
-including verified and developer accounts. Based on current behavior in the 
+subject to them, including verified and developer accounts. Based on 
 
-Twitter community, we&aposve concluded that this is both fair and reasonable.  
+current behavior in the Twitter community, we&aposve concluded that this is 
+
+both fair and reasonable.  
 
 Why does Twitter monitor following behavior at all? 
 
@@ -384,57 +390,61 @@ Isn’t this a social network?
 
 Twitter works quite differently from social networks: when you accept 
 
-friend requests on other social networks like Facebook, it usually means you 
+friend requests on other social networks like Facebook, it usually means 
 
-appear in that person&aposs network and they appear in yours. Following on 
+you appear in that person&aposs network and they appear in yours. Following 
 
-Twitter is different because following is not mutual. Twitter allows people to 
+on Twitter is different because **following is not mutual.** Twitter allows 
 
-opt- in to (or opt-out of) receiving a person&aposs updates without requiring a 
+people to opt- in to (or opt-out of) receiving a person&aposs updates without 
 
-mutual relationship.  
+requiring a mutual relationship.  
 
-Limits on Twitter alleviate some of the strain on the invisible part of Twitter, 
+Limits on Twitter alleviate some of the strain on the invisible part of 
 
-which prevents error pages and downtime on the visible part. For the sake of 
+Twitter, which prevents error pages and downtime on the visible part. For 
 
-reliability, we&aposve placed limits on actions like following, API requests per 
+the sake of reliability, we&aposve placed limits on actions like following, API 
 
-hour, and number of updates per day (see this page for more information on 
+requests per hour, and number of updates per day (see this page for 
 
-updating and API limits).  
+more information on updating and API limits).  
 
-Finally, follower violations are one tactic that spammers often use to abuse 
+Finally, follower violations are one tactic that spammers often use to 
 
-Twitter. Monitoring for abuse is one way to reduce spam on Twitter.  
+abuse Twitter. Monitoring for abuse is one way to reduce spam on 
 
-Tip: If you need to communicate with someone but don&apost need to see their 
+Twitter.  
 
-updates every day, don&apost follow them. Visit their profile or send them an 
+**Tip:** If you need to communicate with someone but don&apost need to see 
 
-@reply when you need to; sending @replies doesn&apost require following, and 
+their updates every day, don&apost follow them. Visit their profile or send them 
 
-your reply will appear in the person&aposs @mentions tab so they can reply back.  
+an @reply when you need to; sending @replies doesn&apost require following, 
+
+and your reply will appear in the person&aposs @mentions tab so they can 
+
+reply back.  
 
 What are third party applications to “Get More 
 
 Followers Fast!”?  
 
-You may encounter websites or applications claiming they can help you get 
+You may encounter websites or applications claiming they can help you 
 
-lots of followers quickly. These programs may ask for payment for followers, 
+get lots of followers quickly. These programs may ask for payment for 
 
-or ask you to follow a list of other users in order to participate. Using these is 
+followers, or ask you to follow a list of other users in order to participate. 
 
-not allowed according to the Twitter Rules.  
+**Using these is not allowed according to the Twitter Rules.**  
 
-The Twitter Rules addresses the use of these programs by disallowing: using 
+The Twitter Rules addresses the use of these programs by disallowing: 
 
-or promoting third- party sites that claim to get you more followers (such as 
+using or promoting third- party sites that claim to get you more followers 
 
-follower trains, sites promising ‘more followers fast,’ or any other site that 
+(such as follower trains, sites promising ‘more followers fast,’ or any 
 
-offers to automatically add followers to your account).  
+other site that offers to automatically add followers to your account).  
 
 When you give out your username and password to another site or 
 
@@ -442,23 +452,23 @@ application, you are giving control of your account to someone else. They
 
 may then post duplicated, spam, or malicious updates and links, send 
 
-unwanted direct messages, aggressively follow, or violate other Twitter rules 
+unwanted direct messages, aggressively follow, or violate other Twitter 
 
-with your account. When these applications do add followers to your 
+rules with your account. When these applications do add followers to 
 
-account, they are often abandoned or bot accounts that are not reading your 
+your account, they are often abandoned or bot accounts that are not 
 
-updates. If a third-party application causes your account to violate the 
+reading your updates. If a third-party application causes your account to 
 
-Twitter Rules, your account may be suspended.  
+violate the Twitter Rules, your account may be suspended.  
 
-Some third-party applications have been implicated in spam behavior, fraud, 
+Some third-party applications have been implicated in spam behavior, 
 
-the selling of usernames and passwords, and phishing. Please do not give 
+fraud, the selling of usernames and passwords, and phishing. **Please do** 
 
-your username and password out to any third- party application that you 
+**not give your username and password out to any third- party** 
 
-have not thoroughly researched.  
+**application that you have not thoroughly researched.**  
 
 Revoke access for any third-party application that you don&apost recognize by 
 
@@ -470,33 +480,33 @@ Some API administrators have whitelist status so their applications can
 
 function without hitting certain system limits. Whitelisting means that an 
 
-application can have more API requests per hour; it does not increase the 
+application can have more API requests per hour; it does not increase 
 
-follow limits. All whitelisted accounts are still subject to follow limits.  
+the follow limits. All whitelisted accounts are still subject to follow limits.  
 
 So how am I supposed to get followers?  
 
-Remember, Twitter isn’t a race to get the most followers. If you follow users 
+Remember, Twitter isn’t a race to get the most followers. If you follow 
 
-that you’re interested in and post meaningful content, it’s more likely that 
+users that you’re interested in and post meaningful content, it’s more 
 
-legitimate users will find you and read your updates. People follow other 
+likely that legitimate users will find you and read your updates. People 
 
-users on Twitter to read updates that are interesting to them. Aggressively 
+follow other users on Twitter to read updates that are interesting to them. 
 
-following and un-following accounts is frustrating to other Twitter users and 
+Aggressively following and un-following accounts is frustrating to other 
 
-degrades the Twitter experience for everyone.  
+Twitter users and degrades the Twitter experience for everyone.  
 
 Having Trouble?  
 
-Check out our Following Troubleshooting section for solutions to common 
+Check out our Following Troubleshooting section for solutions to 
 
-problems  
+common problems  
 
  
 
-**Automation Rules & Best Practices**
+**Automation Rules & Best Practices** **(2010/01)** 
 
 Submitted Nov 08, 2009 by **ginger** 
 
@@ -562,13 +572,13 @@ If you want to automate your account with a feed from your personal blog or upda
 
 consider the following: 
 
-● 
+• 
 
 **Feeds of your own blog:** It’s generally fine to automate your account with updates of your own 
 
 content; just be sure to review the Twitter Rules before setting up your automation. 
 
-● 
+• 
 
 **Feeds that go through redirects or ad pages:** If you&aposre posting automated links that redirect through 
 
@@ -576,7 +586,7 @@ landing or ad pages before the final content, your account may be suspended for 
 
 links, a violation of the Twitter Rules. 
 
-● 
+• 
 
 **Feeds for community benefit:** We welcome feeds that are used for community benefit or provide 
 
@@ -652,15 +662,15 @@ and promotion are allowed, but subject to the rules in this document. The follow
 
 prohibited: 
 
-● 
+• 
 
 Promoting your own business or website. 
 
-● 
+• 
 
 Tweeting unpaid consumer recommendations. 
 
-● 
+• 
 
 Tweeting sponsored or compensated links and updates that you have manually posted or approved. 
 
