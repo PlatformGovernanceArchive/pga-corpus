@@ -6,7 +6,7 @@ This is the original PGA dataset. Data has been collected retrospectively by a c
 
 **Time Frame:** 2005-2021
 
-**Project Website:** [http://platformgovernancearchive.uni-bremen.de]([url](http://platformgovernancearchive.uni-bremen.de))
+**Project Website:** [http://platformgovernancearchive.uni-bremen.de](http://platformgovernancearchive.uni-bremen.de)
 
 ### Using the Data
 
