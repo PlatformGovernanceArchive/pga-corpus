@@ -32,7 +32,7 @@ Name of platform. (Date of version). *Name of policy*. Platform Governance Archi
 
 The full documentation is available as a data paper: 
 
-Katzenbach, C., Kopps, A., Magalhaes, J. C., Redeker. D., Sühr, T., Wunderlich, L. (2023). *The Platform Governance Archive v1 – A longitudinal dataset to study the governance of communication and interactions by platforms and the historical evolution of platform policies*. Centre for Media, Communication and Information Research (ZeMKI), University of Bremen. https://doi.org/10.17605/OSF.IO/XSBPT.
+Katzenbach, C., Kopps, A., Magalhaes, J. C., Redeker. D., Sühr, T., Wunderlich, L. (2023). *The Platform Governance Archive v1 – A longitudinal dataset to study the governance of communication and interactions by platforms and the historical evolution of platform policies*. Centre for Media, Communication and Information Research (ZeMKI), University of Bremen. [https://doi.org/10.26092/elib/2331](https://doi.org/10.26092/elib/2331).
 
 #### The dataset on Github
 
